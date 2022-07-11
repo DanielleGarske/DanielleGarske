@@ -16,6 +16,9 @@ Olá! Meu nome é  Danielle Garske! 🙃🙅🏼
   <div> 
   <a href="https://www.instagram.com/danielle.garske/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniellesilvagarske@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+    <a href="Danielle Garske#9279 target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    
   <a href="https://www.linkedin.com/in/danielle-silva-garske/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
    ![Snake animation](https://github.com/lucassclopes/lucassclopes/blob/output/github-contribution-grid-snake.svg)

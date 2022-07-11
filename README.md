@@ -2,8 +2,9 @@
 Olá! Sou Danielle Garske
 
 
-- 🔭 Atualmente trabalho como Técnico de Help Desk.
-- 🌱 Sou Graduanda de  Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Campus Rio Grande.
+- 👩🏼‍💻 Sou Graduanda de  Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Campus Rio Grande.
+- 📞 Atualmente trabalho como Técnico de Help Desk Jr.
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danielle-silva-garske/">

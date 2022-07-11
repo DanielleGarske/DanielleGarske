@@ -1,6 +1,5 @@
 
-Olá! Sou Danielle Garske
-
+Olá! Meu nome é  Danielle Garske! 🙃🙅🏼
 
 - 👩🏼‍💻 Sou Graduanda de  Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Campus Rio Grande.
 - 📞 Atualmente trabalho como Técnico de Help Desk Jr.

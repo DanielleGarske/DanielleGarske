@@ -8,11 +8,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danielle-silva-garske/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielleGarske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassclopes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielleGarske&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassclopes&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
   ##
+
   
   <div> 
   <a href="https://www.instagram.com/danielle.garske/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,3 +23,6 @@
    ![Snake animation](https://github.com/lucassclopes/lucassclopes/blob/output/github-contribution-grid-snake.svg)
     
 </div>
+
+  
+  

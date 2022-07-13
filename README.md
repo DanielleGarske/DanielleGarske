@@ -1,8 +1,9 @@
 
-Olá! Meu nome é  Danielle Garske! 🙃🙅🏼🙋
+<h1 align="left">Olá! meu sou a Danielle Garske! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> 🙃🙅🏼</h1>
+
 
 - 👩🏼‍💻 Sou Graduanda de  Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Campus Rio Grande.
-- ☎️📞 Atualmente trabalho como Técnico de Help Desk Jr.
+- ☎📞 Atualmente trabalho como Técnico de Help Desk Jr.
 
 
 <div align="center">
